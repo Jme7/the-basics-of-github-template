@@ -1,2 +1,2 @@
-# the-basics-of-github-template
-The template repository for the The basics of GitHub course on Learning Lab.
+# :wave: Hi! Welcome to **The basics of GitHub part 1: Repositories**
+I (:robot:the GitHub Learning Lab robot:robot:) have made a new issue! Go check it out to get started.
